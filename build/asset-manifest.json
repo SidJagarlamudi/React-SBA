@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91bd7075.chunk.css",
+    "main.js": "/static/js/main.fb436d01.chunk.js",
+    "main.js.map": "/static/js/main.fb436d01.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e43765e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e43765e.js.map",
+    "static/css/2.3bd05173.chunk.css": "/static/css/2.3bd05173.chunk.css",
+    "static/js/2.22d8f85b.chunk.js": "/static/js/2.22d8f85b.chunk.js",
+    "static/js/2.22d8f85b.chunk.js.map": "/static/js/2.22d8f85b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.355352ee7600d42bd2177dc780f7dca4.js": "/precache-manifest.355352ee7600d42bd2177dc780f7dca4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3bd05173.chunk.css.map": "/static/css/2.3bd05173.chunk.css.map",
+    "static/css/main.91bd7075.chunk.css.map": "/static/css/main.91bd7075.chunk.css.map",
+    "static/js/2.22d8f85b.chunk.js.LICENSE.txt": "/static/js/2.22d8f85b.chunk.js.LICENSE.txt",
+    "static/media/aqiTable.png": "/static/media/aqiTable.fa57c7a7.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/loadingGIF.gif": "/static/media/loadingGIF.f0ea6667.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e43765e.js",
+    "static/css/2.3bd05173.chunk.css",
+    "static/js/2.22d8f85b.chunk.js",
+    "static/css/main.91bd7075.chunk.css",
+    "static/js/main.fb436d01.chunk.js"
+  ]
+}
